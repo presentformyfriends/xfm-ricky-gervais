@@ -33,7 +33,7 @@ python xfm-ricky-gervais.py
 * pathlib
 * os
 
-## License
+## ⚖️ License
 
 [![GitHub License](https://badgen.net/github/license/presentformyfriends/xfm-ricky-gervais?color=pink)](https://github.com/presentformyfriends/xfm-ricky-gervais/blob/master/LICENSE)
 
