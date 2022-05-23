@@ -4,7 +4,7 @@
 
 # xfm-ricky-gervais
 
-![GitHub last commit](https://badgen.net/github/last-commit/presentformyfriends/geo-portfolio?color=pink)  ![Python](https://badgen.net/badge/python/3.9/pink?icon=pypi) ![OS](https://badgen.net/badge/windows/10/pink?icon=windows)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/presentformyfriends/xfm-ricky-gervais?color=hotpink&logo=git&logoColor=pink) ![Python](https://img.shields.io/pypi/pyversions/selenium?color=hotpink&logo=python&logoColor=pink) ![Windows](https://img.shields.io/badge/windows-10-hotpink?logo=windows&logoColor=pink)
 
 </div>
 
@@ -35,5 +35,5 @@ python xfm-ricky-gervais.py
 
 ## ⚖️ License
 
-[![GitHub License](https://badgen.net/github/license/presentformyfriends/xfm-ricky-gervais?color=pink)](https://github.com/presentformyfriends/xfm-ricky-gervais/blob/master/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/presentformyfriends/xfm-ricky-gervais?color=hotpink)](https://github.com/presentformyfriends/xfm-ricky-gervais/blob/master/LICENSE)
 
