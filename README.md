@@ -24,16 +24,18 @@ python xfm-ricky-gervais.py
 ## :snake: Dependencies
 
 ### Packages
-* Selenium (with geckodriver)
+* [Selenium](https://pypi.org/project/selenium/)
+
+### Frameworks
+* [geckodriver](https://github.com/mozilla/geckodriver)
 
 ### Libraries
-* pytube
+* [pytube](https://github.com/pytube/pytube)
 
 ### Modules
-* pathlib
-* os
+* [os](https://docs.python.org/3/library/os.html#module-os)
+* [pathlib](https://docs.python.org/3/library/pathlib.html)
 
 ## ⚖️ License
 
 [![GitHub License](https://img.shields.io/github/license/presentformyfriends/xfm-ricky-gervais?color=hotpink)](https://github.com/presentformyfriends/xfm-ricky-gervais/blob/master/LICENSE)
-
